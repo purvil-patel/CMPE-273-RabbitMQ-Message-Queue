@@ -39,9 +39,19 @@ Exchange of 10,000 Messages:
 The Producer application was executed to send 10,000 messages to the RabbitMQ message queue. Simultaneously, the Consumer application was set up to consume these messages. This process was documented in the first video.
 
 
+
+https://github.com/purvil-patel/CMPE-273-RabbitMQ-Message-Queue/assets/67355397/4e6c8638-8c0e-44f8-b25e-04d1a5c921bd
+
+
 Exchange of 1,000,000 Messages:
 
 Following the success of the initial test, the Producer application was executed again to send a more extensive batch of 1,000,000 messages to the RabbitMQ message queue. The Consumer application was configured to handle this higher message volume. This process was documented in the second video.
+
+
+
+https://github.com/purvil-patel/CMPE-273-RabbitMQ-Message-Queue/assets/67355397/554ab7e5-a8fc-4030-887b-110e51931592
+
+
 
 Message Queue Browser:
 
